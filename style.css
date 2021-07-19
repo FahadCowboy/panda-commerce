@@ -1,0 +1,30 @@
+.custom-carousel-control{
+    top: initial;
+    bottom: 2%;
+    width: 15%;
+}
+
+.nav-bg{
+    background-color: #cbe5ff !important;
+}
+
+.bg-pink-light{
+    background-color: #FEEAE9;
+}
+
+.carosel-icen-bg{
+    width: 0.5rem;
+    height: 0.5rem;
+    padding: 1rem;
+    background-color: #848484;
+    border-radius: 6px;
+    background-size: 67% 69%;
+}
+.carousel-custom-indicators [data-bs-target]{
+    background-color: #8e8484;
+}
+
+.bg-pink-gradient{
+    background-color: linear-gradient(90deg, rgb(255, 88, 116), rgb(245, 29, 61) ) !important;
+}
+
