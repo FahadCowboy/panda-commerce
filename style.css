@@ -20,11 +20,32 @@
     border-radius: 6px;
     background-size: 67% 69%;
 }
+
 .carousel-custom-indicators [data-bs-target]{
     background-color: #8e8484;
 }
 
 .bg-pink-gradient{
-    background-color: linear-gradient(90deg, rgb(255, 88, 116), rgb(245, 29, 61) ) !important;
+    background: linear-gradient(180deg, #FF589B, #fb0465 ) !important;
+}
+
+.bg-blue-gradient{
+    background: linear-gradient(180deg, #769AFE, #164ff5 ) !important;
+}
+
+.bg-yellow-gradient{
+    background: linear-gradient(180deg, #FFC61E, #fb8e00 ) !important;
+}
+
+.slider-price-color{
+    color: #fb0465;
+}
+
+.custom-b-radius{
+    border-radius: 0.7rem;
+}
+
+.font-500{
+    font-weight: 500;
 }
 
